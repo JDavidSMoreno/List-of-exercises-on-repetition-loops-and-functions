@@ -33,7 +33,7 @@ int main(){
 float calculomedia(float a, int b){
     float resultado;
     
-    resultado = a / b;q
+    resultado = a / b;
 
     return resultado;
 }
